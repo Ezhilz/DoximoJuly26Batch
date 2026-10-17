@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-13T09:59:37 IST" name="Default suite" finished-at="2026-10-13T09:59:53 IST" duration-ms="16131">
+    <groups>
+    </groups>
+    <test started-at="2026-10-13T09:59:37 IST" name="Default test" finished-at="2026-10-13T09:59:53 IST" duration-ms="16131">
+      <class name="doximo.org.RestAssuredDemo">
+        <test-method signature="getUser()[pri:1, instance:doximo.org.RestAssuredDemo@3e08ff24]" started-at="2026-10-13T09:59:37 IST" name="getUser" finished-at="2026-10-13T09:59:47 IST" duration-ms="10259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="createUser()[pri:2, instance:doximo.org.RestAssuredDemo@3e08ff24]" started-at="2026-10-13T09:59:48 IST" name="createUser" finished-at="2026-10-13T09:59:51 IST" duration-ms="3404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="updateUser()[pri:3, instance:doximo.org.RestAssuredDemo@3e08ff24]" started-at="2026-10-13T09:59:51 IST" name="updateUser" finished-at="2026-10-13T09:59:52 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="deleteUser()[pri:4, instance:doximo.org.RestAssuredDemo@3e08ff24]" started-at="2026-10-13T09:59:52 IST" name="deleteUser" finished-at="2026-10-13T09:59:53 IST" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- doximo.org.RestAssuredDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
