@@ -192,8 +192,12 @@
 			<artifactId>json-schema-validator</artifactId>
 			<version>5.5.0</version>
 		</dependency>
-
-  <build>
+  
+  
+  
+  
+  </dependencies>
+	 <build>
         <plugins>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
@@ -202,9 +206,4 @@
             </plugin>
         </plugins>
     </build>
-  
-  
-  
-  
-  </dependencies>
 </project>
